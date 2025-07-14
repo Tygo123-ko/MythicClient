@@ -1,0 +1,10 @@
+{
+  "name": "Cyberpunk Neon",
+  "colors": {
+    "background": "#0d0d0d",
+    "accent": "#39ff14",
+    "secondary": "#9d00ff",
+    "text": "#ffffff"
+  },
+  "glow": true
+}
